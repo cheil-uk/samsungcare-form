@@ -1,0 +1,6 @@
+.modal__body {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  text-align: start;
+}
